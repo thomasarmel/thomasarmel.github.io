@@ -39,7 +39,7 @@ keywords:
 - https://univ-cotedazur.hal.science/hal-04624746/file/ressi_conf_paper.pdf
 
 
-## Autres
+## Others
 
 ### 2024
 
