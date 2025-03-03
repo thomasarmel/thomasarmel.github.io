@@ -15,6 +15,8 @@ keywords:
 #### A secret spreading protocol for ETSI Quantum Key Distribution secured network based on a recursive secret sharing scheme
 
 - *ICISSP*
+- 10.5220/0013077100003899
+- https://www.scitepress.org/Papers/2025/130771/130771.pdf
 
 ### 2024
 
