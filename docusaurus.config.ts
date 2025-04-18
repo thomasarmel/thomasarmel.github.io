@@ -67,6 +67,21 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  scripts: [
+    {
+      src: '/js/matomo.js', // chemin relatif au dossier `static`
+      async: true,
+      defer: true,
+    },
+    // ou inline :
+    /*{
+      content: `
+        console.log("Script global chargé !");
+        // Ton JS ici
+      `,
+    },*/
+  ],
 };
 
 export default config;
