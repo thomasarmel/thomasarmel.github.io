@@ -8,6 +8,15 @@ keywords:
   - speaker
 ---
 
+### June 3, 2025
+
+#### Utilisation d'automates cellulaires pour la construction de grandes S-Boxes à partir d'un réseau de Feistel
+
+- LIS, Marseille, France
+- [slides](/files/presentations/seminar_lis_03_06_2025.pdf)
+
+---
+
 ### June 21, 2024
 
 #### A QKD protocol and its integration into a software library
