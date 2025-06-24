@@ -18,6 +18,11 @@ keywords:
 - 10.5220/0013077100003899
 - https://www.scitepress.org/Papers/2025/130771/130771.pdf
 
+#### An ETSI GS QKD compliant TLS implementation
+
+- *SECRYPT*
+- https://univ-cotedazur.hal.science/hal-05116099v1/file/SECRYPT_2025_119_CR-3.pdf
+
 ### 2024
 
 #### A cellular automata construction method to obtain 9-variable cryptographic Boolean functions
