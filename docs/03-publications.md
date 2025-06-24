@@ -21,6 +21,7 @@ keywords:
 #### An ETSI GS QKD compliant TLS implementation
 
 - *SECRYPT*
+- 10.5220/0013564700003979
 - https://univ-cotedazur.hal.science/hal-05116099v1/file/SECRYPT_2025_119_CR-3.pdf
 
 ### 2024
