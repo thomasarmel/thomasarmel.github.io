@@ -32,7 +32,7 @@ keywords:
 
 ### 2024
 
-#### A cellular automata construction method to obtain 9-variable cryptographic Boolean functions
+#### Testing a Cellular Automata Construction Method to Obtain 9-variable Cryptographic Boolean Functions
 
 - *Journal of Cellular Automata*
 - 10.32908/jca.v18.100924
