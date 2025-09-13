@@ -1,22 +1,23 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 export default function EmailLink(): JSX.Element {
-    const user = 'contact';
-    const domain = 'thomasarmel';
-    const tld = 'fr';
+    const [mailto, setMailto] = useState<string | null>(null);
 
-    const email = `${user}@${domain}.${tld}`;
-    const mailto = `mailto:${email}`;
+    useEffect(() => {
+        const user = 'contact';
+        const domain = 'thomasarmel';
+        const tld = 'fr';
+
+        const email = `${user}@${domain}.${tld}`;
+        setMailto(`mailto:${email}`);
+    }, []);
 
     return (
         <a
-            href={mailto}
-            aria-label={`Envoyer un e-mail à ${user} at ${domain} point ${tld}`}
+            href={mailto ?? '#'}
+            aria-label="Envoyer un e-mail à contact at thomasarmel point fr"
         >
-            {user}
-            <span aria-hidden>@</span>
-            <span aria-hidden>{domain}</span>
-            <span aria-hidden>.{tld}</span>
+            contact<span aria-hidden>@</span>thomasarmel<span aria-hidden>.fr</span>
         </a>
     );
 }
