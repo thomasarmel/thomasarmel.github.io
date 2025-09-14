@@ -15,7 +15,7 @@ export default function EmailLink(): JSX.Element {
     return (
         <a
             href={mailto ?? '#'}
-            aria-label="Envoyer un e-mail à contact at thomasarmel point fr"
+            aria-label="Send an email to contact at thomasarmel dot fr"
         >
             contact<span aria-hidden>@</span>thomasarmel<span aria-hidden>.fr</span>
         </a>
