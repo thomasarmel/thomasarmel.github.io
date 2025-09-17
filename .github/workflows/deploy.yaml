@@ -23,6 +23,13 @@ jobs:
         run: npm ci
       - name: Build website
         run: npm run build
+      - name: Add CNAME file to build
+        id: cname
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cname=$(gh api repos/${{ github.repository }}/pages --jq .cname)
+          echo $cname > ./build/CNAME
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
