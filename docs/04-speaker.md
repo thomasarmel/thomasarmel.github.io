@@ -8,6 +8,13 @@ keywords:
   - speaker
 ---
 
+### October 21, 2025
+
+#### Quantum Key Distribution, cellular automata based large S-Box and almost key homomorphic block cipher for long term secret storage
+
+- LIMOS, Clermont-Ferrand, France
+- [slides](/files/presentations/seminar_limos_21_10_2025.pdf)
+
 ### June 3, 2025
 
 #### Utilisation d'automates cellulaires pour la construction de grandes S-Boxes à partir d'un réseau de Feistel
