@@ -8,6 +8,15 @@ keywords:
   - speaker
 ---
 
+
+### November 20, 2025
+
+#### Quantum Key Distribution, cellular automata based large S-Box and almost key homomorphic block cipher for long term secret storage
+
+- IMATH, La Garde, France
+- [slides](/files/presentations/seminar_imath_20_11_2025.pdf)
+
+
 ### October 21, 2025
 
 #### Quantum Key Distribution, cellular automata based large S-Box and almost key homomorphic block cipher for long term secret storage
@@ -31,7 +40,6 @@ keywords:
 - InPhyNi, Nice, France
 - [slides](/files/presentations/seminar_inphyni_28_06_2024.pdf)
 
----
 
 ### March 28, 2024
 
