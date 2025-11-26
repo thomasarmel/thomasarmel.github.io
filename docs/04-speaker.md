@@ -8,6 +8,12 @@ keywords:
   - speaker
 ---
 
+### November 25, 2025
+
+#### Cryptography and Quantum Key Distribution for long term secret storage
+
+- Quant'Azur, Nice, France
+- [slides](/files/presentations/pres_qazur_25_11_2025.pdf)
 
 ### November 20, 2025
 
