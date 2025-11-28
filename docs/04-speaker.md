@@ -8,6 +8,13 @@ keywords:
   - speaker
 ---
 
+### November 27, 2025
+
+#### Quantum Key Distribution, cellular automata based large S-Box and almost key homomorphic block cipher for long term secret storage
+
+- INRIA, Rennes, France
+- [slides](/files/presentations/seminar_pirat_27_11_2025.pdf)
+
 ### November 25, 2025
 
 #### Cryptography and Quantum Key Distribution for long term secret storage
