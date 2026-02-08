@@ -63,7 +63,7 @@ keywords:
 
 #### MULTISS: un protocole de stockage confidentiel à long terme sur plusieurs réseaux QKD
 
-- Thomas Prévost, Bruno Martin, Olivier Alibart
+- Thomas Prévost, Olivier Alibart, Marc Kaplan, Anne Marin
 - *RESSI*
 - https://univ-cotedazur.hal.science/hal-05085505v1/file/main.pdf
 
