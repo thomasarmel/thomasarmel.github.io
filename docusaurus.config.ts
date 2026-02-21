@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Thomas Prévost',
   tagline: 'Thomas Prévost personal page',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.webp',
 
   // Set the production url of your site here
   url: 'https://www.thomasarmel.fr',
@@ -57,7 +57,7 @@ const config: Config = {
       title: 'Thomas Prévost',
       logo: {
         alt: 'Logo Caliméro',
-        src: 'img/calimero.png',
+        src: 'img/calimero.webp',
       },
       items: [
         {
