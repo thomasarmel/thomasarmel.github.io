@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-export default function EmailLink(): JSX.Element {
+export default function EmailLink(): React.JSX.Element {
     const [mailto, setMailto] = useState<string | null>(null);
 
     useEffect(() => {
